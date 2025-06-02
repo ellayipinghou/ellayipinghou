@@ -5,8 +5,8 @@ I’m passionate about solving real-world problems through technology, whether t
 
 ### 🚀 Projects
 #### 💡 1. [Sudoku Solver Web App](https://github.com/ellayipinghou/sudoku-new)
-Developed a full-stack Sudoku solver web application with support for manual, CSV, and image-based puzzle input* **Tech Stack:** React, Tailwind, Flask, Vite, Python, Keras, Tensorflow
-
+Developed a full-stack Sudoku solver web application with support for manual, CSV, and image-based puzzle input
+* **Tech Stack:** React, Tailwind, Flask, Vite, Python, Keras, Tensorflow
 * **Learnings**: Backend API development with Flask, constraint-based algorithms (backtracking and forward checking), image processing with OpenCV, integrating machine learning models into web applications, React development
 
 #### 💉 2. [Rack Organization Algorithm](https://github.com/ellayipinghou/rack-algorithm)
