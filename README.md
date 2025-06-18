@@ -34,11 +34,10 @@ Built a responsive and stylized application allowing users to add, edit, view, a
 * **Learnings:** Responsive web design, CRUD operations, EJS templating, CSS styling for user interfaces, Node.js backend development, Express.js routing and middleware, PostgreSQL database management
 
 ### 🔭 What I'm Currently Working On
-I’ve gained familiarity with several key areas through my projects, which I’m now focused on building proficiency in:
 
 * **Python for Machine Learning**: Developing proficiency with Python machine-learning libraries like Numpy, Pandas, OpenCV, TensorFlow, Keras, and Scikit-learn
+* **React & Javascript**: Improving my frontend skills using technologies like JavaScript and React
 * **Database Management & Backend Routing**: Gaining more practice managing databases (especially PostgreSQL) and improving my backend routing with tools like Express.js and Flask
-* **React & Javascript**: Deepening my understanding of JavaScript and React concepts such as component architecture and state management
 
 ### 📫 How to Reach Me:
 * **Email:** yipingella369@gmail.com
