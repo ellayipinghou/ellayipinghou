@@ -1,5 +1,14 @@
 ## Hi, I'm Ella! 👋
 #### 🎓 Junior at Tufts University, studying Computer Science
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 I’m passionate about solving real-world problems through technology, whether that’s developing web applications, building AI models, or crafting efficient software solutions. I’m always pushing myself to learn more and grow as a developer, and I believe that hands-on experience is key to improving. Right now, I'm diving deep into AI/ML through the Break Through Tech program @ MIT, where I’m exploring cutting-edge techniques in the full ML workflow — from data preprocessing, to model development, to evaluation and refinement. I’m always looking for new ways to apply my skills in real-world projects and continue learning from others in the field. Got any exciting opportunities? Let’s connect!
 
