@@ -39,6 +39,6 @@ Built a responsive and stylized application allowing users to add, edit, view, a
 * **Database Management & Backend Routing**: Gaining more practice managing databases (especially PostgreSQL) and improving my backend routing with tools like Express.js and Flask
 
 ### 📫 How to Reach Me:
-* **Email:** yipingella369@gmail.com
-* **Linkedin:** https://www.linkedin.com/in/ellahou/
+* **Email:** ellahou567@gmail.com
+* **Linkedin:** www.linkedin.com/in/ellahou/
 
