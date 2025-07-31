@@ -1,6 +1,8 @@
 ## Hi, I'm Ella! 👋
 #### 🎓 Junior at Tufts University, studying Computer Science
-I’m passionate about solving real-world problems through technology, whether that’s developing web applications, building AI models, or crafting efficient software solutions. Right now, I'm diving deep into AI/ML through the Break Through Tech AI program @ MIT, where I’m gaining hands-on experience with machine learning techniques, from data preprocessing, to model development, to evaluation and refinement. I’m always looking for new ways to apply my skills in real-world projects and continue learning from others in the field. Got any exciting opportunities? Let’s connect!
+I’m passionate about solving real-world problems through technology, whether that’s developing web applications, building AI models, or crafting efficient software solutions. Right now, I'm diving deep into AI/ML through the Break Through Tech AI program @ MIT, where I’m gaining hands-on experience with machine learning techniques, from data preprocessing, to model development, to evaluation and refinement. 
+
+I’m always looking for new ways to apply my skills in real-world projects and continue learning from others in the field. Got any exciting opportunities? Let’s connect!
 
 ### 🚀 Projects
 
