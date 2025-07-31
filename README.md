@@ -19,7 +19,7 @@ Designed and implemented a greedy algorithm to batch and consolidate laboratory 
 #### 🍎 3. [Village Food Hub Inventory & Volunteer Management System](https://github.com/JumboCode/village-food-hub/tree/dev/app)
 Developed a full-stack web application to manage inventory and volunteer demographic data for the Village Food Hub, a local food pantry
 * **Tech Stack:** React, Typescript, Tailwind, Next.js, Prisma, PostgreSQL, Vercel
-* **Learnings:** Full-stack web development, database management with PostgreSQL and Prisma, React component design, API routing and CRUD operations with Next.js, version control with Git, UI/UX design using Tailwind CSS, pair programmign and team collaboration
+* **Learnings:** Full-stack web development, database management with PostgreSQL and Prisma, React component design, API routing and CRUD operations with Next.js, version control with Git, UI/UX design using Tailwind CSS, pair programming and team collaboration
 
 #### 📝 4. [Blogging Web App](https://github.com/ellayipinghou/web-blog-app) 
 Built a responsive and stylized application allowing users to add, edit, view, and delete blog posts
