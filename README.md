@@ -27,20 +27,14 @@ Built a responsive and stylized application allowing users to add, edit, view, a
 * **Learnings:** Responsive web design, CRUD operations, EJS templating, CSS styling for user interfaces, Node.js backend development, Express.js routing and middleware, PostgreSQL database management
 
 ### My Tech Stack: 💻
-* Programming Languages: Python, C, C++, HTML, CSS, JavaScript*
-* AI Libraries & Frameworks: Scikit-learn, Pandas, NumPy, Matplotlib, Tensorflow*, Keras*
-* Web Development Libraries and Frameworks: Tailwind CSS, EJS, React*, Node.js*, Next.js*, Express.js*
-* Databases: SQL*, PostgreSQL*, Prisma*
-* Development Tools: Jupyter Notebooks
-* Version Control: Git, GitHub
+* **Programming Languages**: Python, C, C++, HTML, CSS, JavaScript*
+* **AI Libraries & Frameworks**: Scikit-learn, Pandas, NumPy, Matplotlib, Tensorflow*, Keras*
+* **Web Development Libraries and Frameworks**: Tailwind CSS, EJS, React*, Node.js*, Next.js*, Express.js*, Flask*
+* **Databases**: SQL*, PostgreSQL*, Prisma*
+* **Development Tools**: Jupyter Notebooks
+* **Version Control**: Git, GitHub
 
-\*still learning
-
-### 🔭 Skills I'm Currently Working On
-
-* **Python for Machine Learning**: Developing proficiency with Python machine-learning libraries like Numpy, Pandas, OpenCV, TensorFlow, Keras, and Scikit-learn
-* **Frontend Development**: Improving my skills in frontend technologies like JavaScript and React
-* **Database Management & Backend Routing**: Gaining more practice managing databases using PostgreSQL and Prisma, and improving my backend routing with tools like Express.js and Flask
+\*still in the process of learning!
 
 ### 📫 How to Reach Me:
 * **Email:** ellahou567@gmail.com
