@@ -12,9 +12,9 @@ Developed a full-stack Sudoku solver web application with support for manual, CS
 * **Learnings**: Backend API development with Flask, constraint-based algorithms (backtracking with forward checking), image preprocessing with OpenCV, integrating machine learning models into web applications, React development, setting up conda environments
 
 #### 💉 2. [Rack Organization Algorithm](https://github.com/ellayipinghou/rack-algorithm)
-Designed and implemented a greedy algorithm to batch and consolidate laboratory sample racks, exporting to CSV file and reducing manual workload
+Designed and implemented a heuristic algorithm to batch and consolidate laboratory sample racks, exporting to CSV file and reducing manual workload
 * **Tech Stack**: C++, Visual Studio
-* **Learnings:** Greedy algorithm design, sample frequency analysis, Visual Studio development environment, problem-solving in real-world applications
+* **Learnings:** Heuristic algorithm design, sample frequency analysis, Visual Studio development environment, problem-solving in real-world applications
 
 #### 🍎 43 [Village Food Hub Inventory & Volunteer Management System](https://github.com/JumboCode/village-food-hub/tree/dev/app)
 Developed a full-stack web application to manage inventory and volunteer demographic data for the [Village Food Hub](https://www.villagefoodhub.org/), a nonprofit food pantry located in Andover, MA
