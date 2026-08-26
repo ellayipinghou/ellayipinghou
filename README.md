@@ -9,7 +9,7 @@ I'm currently building projects focused on backend systems, data APIs, and data 
 
 ### 🚀 Projects
 
-#### 🔌 1. [Data API Endpoint Generator](https://github.com/ellayipinghou/data-api-endpoint-generator)
+#### 🔌 1. [Data API Endpoint Generator](https://github.com/ellayipinghou/data-api-endpoint-generator) (In Progress)
 
 Built a developer tool that converts CSV datasets into queryable PostgreSQL tables and exposes a generic REST API for filtering, sorting, and retrieving data.
 
