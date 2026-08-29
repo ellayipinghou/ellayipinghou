@@ -39,7 +39,7 @@ Developed a full-stack Sudoku solver supporting manual, CSV, and image-based puz
 
 #### 🍎 5. [Village Food Hub Inventory & Volunteer Management System](https://github.com/JumboCode/village-food-hub/tree/dev/app)
 
-Developed a full-stack web application to manage inventory and volunteer demographic data for the [Village Food Hub](https://www.villagefoodhub.org/), a nonprofit food pantry in Andover, MA.
+Worked with a team to develop a full-stack web application to manage inventory and volunteer demographic data for the [Village Food Hub](https://www.villagefoodhub.org/), a nonprofit food pantry in Andover, MA.
 
 * **Tech Stack:** React, TypeScript, Tailwind, Next.js, Prisma, PostgreSQL, Vercel
 * **Highlights:** Database management, API routing and CRUD operations, React component design, UI/UX development, and collaborative software development
