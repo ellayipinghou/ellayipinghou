@@ -48,7 +48,7 @@ Worked with a team to develop a full-stack web application to manage inventory a
 
 **Languages**: C++, C Python, Java, JavaScript, TypeScript
 
-**Backend & Data**: Spring Boot, PostgreSQL, SQL, Flask, DuckDB
+**Backend & Data**: Spring Boot, PostgreSQL, SQL, Flask, DuckDB, Numpy / Pandas / Scikit-learn
 
 **Frontend**: React, TypeScript, Tailwind CSS
 
