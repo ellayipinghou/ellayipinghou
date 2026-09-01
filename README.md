@@ -47,8 +47,11 @@ Worked with a team to develop a full-stack web application to manage inventory a
 ### Technologies I've used 💻
 
 **Languages**: C++, C Python, Java, JavaScript, TypeScript
+
 **Backend & Data**: Spring Boot, PostgreSQL, SQL, Flask, DuckDB
+
 **Frontend**: React, TypeScript, Tailwind CSS
+
 **Tools**: Git, GitHub, Linux, Gradle
 
 ### 📫 How to Reach Me
